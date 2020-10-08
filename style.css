@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 980px;
+    margin: 0 auto;
+    background: #0e3386;
+    color: white;
+}
+
+#title {
+    text-align: center;
+    padding: 10px;
+}
+
+#image {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 980px;
+}
+
+#img-caption {
+    text-align: right;
+    margin-right: 10px;
+}
+
+#tribute-link {
+    color: #CC3433;
+    text-align: right;
+}
+
+#tribute-info {
+    padding: 50px;
+}
+
+
